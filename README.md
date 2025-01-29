@@ -6,7 +6,13 @@ All projects from module 18
 PersonnelData : Column Row Box Surface
 
 <br>
+
+ProductCatalog : LazyColumn LazyRow
+
 <br>
+
+
+
 <br>
 <br>
 <br>
