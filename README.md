@@ -11,7 +11,7 @@ ProductCatalog : LazyColumn LazyRow
 
 <br>
 
-
+ALuckyCoincidence : LazyHorizontalGrid, LazyVerticalGrid
 
 <br>
 <br>
