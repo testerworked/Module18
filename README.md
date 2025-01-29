@@ -14,6 +14,9 @@ ProductCatalog : LazyColumn LazyRow
 ALuckyCoincidence : LazyHorizontalGrid, LazyVerticalGrid
 
 <br>
+
+HRDepartment : FlowRow, FlowColumn
+
 <br>
 <br>
 <br>
